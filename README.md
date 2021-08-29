@@ -7,4 +7,5 @@
 * Space Invaders
 * Witcher III: wild hunt
 * COD
+* RDD2
  
